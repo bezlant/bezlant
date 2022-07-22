@@ -7,13 +7,6 @@
 - 🌱 I’m currently developing with **C**
 - 🧐 I'm interested in learning **Go & Lua**
 - ⚡ Head over heels with **[Vim](https://github.com/bezlant/dotfiles/tree/develop/nvim)**
----
-### Contacts
-- Languages 🌐: 🇺🇸 English, 🇷🇺 Russian, 🇨🇳 Chinese.
-- Telegram ☎️: @bezlant
-- Email ✉️: abezludniy@mail.ru
-
----
 <!--START_SECTION:waka-->
 
 ```text
@@ -25,3 +18,8 @@ Other      1 min           ▒░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+---
+### Contacts
+- Languages 🌐: 🇺🇸 English, 🇷🇺 Russian, 🇨🇳 Chinese.
+- Telegram ☎️: @bezlant
+- Email ✉️: abezludniy@mail.ru
