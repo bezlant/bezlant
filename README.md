@@ -6,7 +6,7 @@
 - 🔭 I’m working on **[Math Expression Evaluator](https://github.com/bezlant/math_expression_evaluator)**
 - 🌱 I’m currently developing with **C**
 - 🧐 I'm interested in learning **Go & Lua**
-- ⚡ Head over heels with **[Vim](https://github.com/bezlant/dotfiles/tree/develop/nvim)**
+
 <!--START_SECTION:waka-->
 
 ```text
