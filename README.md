@@ -2,7 +2,7 @@
  
 - 🔭 I’m working on **[Math Expression Evaluator](https://github.com/bezlant/math_expression_evaluator)**
 - 🌱 I’m currently developing with **C**
-- 🧐 I'm interested in learning **Go & Lua**
+- 🧐 I'm interested in learning **C++**
 
 <!--START_SECTION:waka-->
 
