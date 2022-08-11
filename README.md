@@ -1,6 +1,6 @@
 ## Hello, I'm Anthony!
  
-- 🔭 I’m working on **[Math Expression Evaluator](https://github.com/bezlant/math_expression_evaluator)**
+- 🔭 I’m working on **[Math Expression Evaluator](https://github.com/bezlant/s21_3d_model_viewer)**
 - 🌱 I’m currently developing with **C**
 - 🧐 I'm interested in learning **C++**
 
