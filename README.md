@@ -1,7 +1,7 @@
 ## Hello, I'm Anthony!
  
-- 🔭 I’m working on **[3d Model Viewer](https://github.com/bezlant/s21_3d_model_viewer)**
-- 🌱 I’m currently learning with **C++**
+- 🔭 I’m working on **[Matrix Library](https://github.com/bezlant/s21_matrix_cpp)**
+- 🌱 I’m currently learning **C++**
 
 <!--START_SECTION:waka-->
 
