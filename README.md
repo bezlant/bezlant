@@ -1,6 +1,6 @@
 ## Hello, I'm Anthony!
  
-- 🔭 I’m working on **[Matrix Library](https://github.com/bezlant/s21_matrix_cpp)**
+- 🔭 I’m working on **[STL Containers](https://github.com/bezlant/s21_stl_containers)**
 - 🌱 I’m currently learning **C++**
 
 <!--START_SECTION:waka-->
