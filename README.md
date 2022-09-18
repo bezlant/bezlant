@@ -16,6 +16,9 @@ Other        27 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### Tools
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" width="50"/>
+</a>
 <a href="https://isocpp.org/">
   <img src="https://i.imgur.com/Ao2P8iG.png" alt="C++" width="50"/>
 </a>
