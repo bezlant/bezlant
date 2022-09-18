@@ -14,6 +14,25 @@ Other        27 mins         █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+<a href="https://isocpp.org/">
+  <img src="https://i.imgur.com/Ao2P8iG.png" alt="C++" width="50"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img src="https://i.imgur.com/zINUxVf.png" alt="C" width="50"/>
+</a>
+<a href="https://www.lua.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/900px-Lua-Logo.svg.png" alt="Lua" height="50"/>
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://i.imgur.com/VyjCJuz.png" alt="Docker" height="50"/>
+</a>
+<a href="https://cmake.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/800px-Cmake.svg.png" alt="Cmake" height="50"/>
+</a>
+<a href="https://neovim.io/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/196px-Neovim-mark-flat.svg.png" alt="Neovim" height="50"/>
+</a>
+
 ### Contacts
 - Languages 🌐: 🇺🇸 English, 🇷🇺 Russian, 🇨🇳 Chinese.
 - Telegram ☎️: @bezlant
