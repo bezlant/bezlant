@@ -14,6 +14,8 @@ Other        27 mins         █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+### Tools
 <a href="https://isocpp.org/">
   <img src="https://i.imgur.com/Ao2P8iG.png" alt="C++" width="50"/>
 </a>
