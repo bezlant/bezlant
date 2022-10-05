@@ -1,7 +1,7 @@
 ## Hello, I'm Anthony!
  
 - 🔭 I’m working on **[STL Containers](https://github.com/bezlant/s21_stl_containers)**
-- 🌱 I’m currently learning **C# & C++**
+- 🌱 I’m currently learning **C++**
 
 <!--START_SECTION:waka-->
 
