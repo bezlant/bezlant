@@ -6,8 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Lua     0 secs          ████████████████▓░░░░░░░░   66.67 %
-Other   0 secs          ████████▒░░░░░░░░░░░░░░░░   33.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
