@@ -17,7 +17,10 @@ Solidity     12 mins         ▒░░░░░░░░░░░░░░░░
 
 ### Tools
 <a href="https://javascript.info/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="C#" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" width="50"/>
+</a>
+<a href="https://reactjs.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="50"/>
 </a>
 <a href="https://isocpp.org/">
   <img src="https://i.imgur.com/Ao2P8iG.png" alt="C++" width="50"/>
