@@ -1,7 +1,6 @@
 ## Hello, I'm Anthony!
  
-- 🔭 I’m working on **[STL Containers](https://github.com/bezlant/s21_stl_containers)**
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Typescript**
 
 <!--START_SECTION:waka-->
 
@@ -17,8 +16,8 @@ Solidity     12 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### Tools
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" width="50"/>
+<a href="https://javascript.info/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="C#" width="50"/>
 </a>
 <a href="https://isocpp.org/">
   <img src="https://i.imgur.com/Ao2P8iG.png" alt="C++" width="50"/>
