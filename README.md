@@ -1,6 +1,6 @@
 ## Hello, I'm Anthony!
  
-- 🌱 I’m currently learning **Typescript**
+I'm a highly skilled developer with a strong passion for optimizing workflows and increasing productivity. My expertise lies in tools such as React, Redux, React Query, Redux Toolkit, and TypeScript, which I have used in various projects to achieve better results and optimize performance.
 
 <!--START_SECTION:waka-->
 
