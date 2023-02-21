@@ -19,8 +19,14 @@ Other        22 mins         ▒░░░░░░░░░░░░░░░░
 <a href="https://javascript.info/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" width="50"/>
 </a>
+<a href="https://www.typescriptlang.org/">
+  <img src="https://raw.githubusercontent.com/maciejkorsan/typescript-blue/master/logo.svg?sanitize=true" alt="Typescript" width="50"/>
+</a>
 <a href="https://reactjs.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="50"/>
+</a>
+<a href="https://redux-toolkit.js.org/">
+  <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="Redux" width="50"/>
 </a>
 <a href="https://isocpp.org/">
   <img src="https://i.imgur.com/Ao2P8iG.png" alt="C++" width="50"/>
@@ -46,6 +52,7 @@ Other        22 mins         ▒░░░░░░░░░░░░░░░░
 <a href="https://neovim.io/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/196px-Neovim-mark-flat.svg.png" alt="Neovim" height="50"/>
 </a>
+
 
 ### Contacts
 - Languages 🌐: 🇺🇸 English, 🇷🇺 Russian, 🇨🇳 Chinese.
