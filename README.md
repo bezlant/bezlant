@@ -5,12 +5,12 @@ I'm a highly skilled developer with a strong passion for optimizing workflows an
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   18 hrs 28 mins  ██████████████████▓░░░░░░   75.19 %
-Bash         1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-JavaScript   1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-JSON         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Lua          59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-CSS          59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+TypeScript   19 hrs 16 mins  ██████████████████░░░░░░░   72.21 %
+Lua          1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+JSON         1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Bash         1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+JavaScript   57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+YAML         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->
