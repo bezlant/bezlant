@@ -1,6 +1,6 @@
 ## Hello, I'm Anthony!
  
-I'm a highly skilled developer with a strong passion for optimizing workflows and increasing productivity. My expertise lies in tools such as React, Redux, React Query, Redux Toolkit, and TypeScript, which I have used in various projects to achieve better results and optimize performance.
+Highly skilled developer passionate about optimizing workflows and increasing productivity. Expertise in React, Redux, React Query, Redux Toolkit, and TypeScript. Consistently achieving better results and optimizing performance through various projects
 
 <!--START_SECTION:waka-->
 
