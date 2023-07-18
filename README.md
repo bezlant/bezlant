@@ -5,8 +5,7 @@ Highly skilled developer passionate about optimizing workflows and increasing pr
 <!--START_SECTION:waka-->
 
 ```txt
-conf   1 min           ████████████████████░░░░░   79.57 %
-INI    0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
