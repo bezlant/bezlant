@@ -5,11 +5,11 @@ Highly skilled developer passionate about optimizing workflows and increasing pr
 <!--START_SECTION:waka-->
 
 ```txt
-Lua         52 mins         ███████████████░░░░░░░░░░   59.49 %
-Bash        13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
-Other       11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
-gitconfig   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-Markdown    4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Lua                        1 hr 23 mins    ██████████▒░░░░░░░░░░░░░░   41.79 %
+TypeScript                 29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+CSS                        16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Bash                       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+Other                      13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
 ```
 
 <!--END_SECTION:waka-->
