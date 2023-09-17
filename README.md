@@ -6,8 +6,8 @@ Highly skilled developer passionate about optimizing workflows and increasing pr
 
 ```txt
 Lua          14 hrs 2 mins   ███████████░░░░░░░░░░░░░░   43.35 %
-TypeScript   9 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.46 %
-Markdown     4 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+TypeScript   9 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.44 %
+Markdown     4 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
 JavaScript   2 hrs 59 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
 JSON         1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
