@@ -5,11 +5,11 @@ Highly skilled developer passionate about optimizing workflows and increasing pr
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 16 mins   ██████████████▓░░░░░░░░░░   58.55 %
-JavaScript   1 hr 52 mins    ████████▒░░░░░░░░░░░░░░░░   33.59 %
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-Bash         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-YAML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+TypeScript   4 hrs 21 mins   ██████████████████░░░░░░░   72.30 %
+JavaScript   1 hr 22 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
+JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+YAML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
