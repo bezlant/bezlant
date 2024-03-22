@@ -5,7 +5,10 @@ Highly skilled developer passionate about optimizing workflows and increasing pr
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C          1 hr 10 mins    ███████████████████████▓░   95.10 %
+Lua        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
